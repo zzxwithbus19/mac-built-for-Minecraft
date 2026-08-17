@@ -1,5 +1,5 @@
 # unix wine ver for zhanbalao/mc26-one ！（use AI）
-# 双文件 Minecraft 26.2 启动器（目前只有原版） 基于zhanbalao/mc26-one的开源项目
+# Minecraft 26.2 ".exe"（原版） 基于zhanbalao/mc26-one的开源项目
 
 将 Minecraft 26.2 打包成一个 exe（Windows应用程序） 和python （.py）文件——内置 Java 25 
 Minecraft资源文件位于.exe程序内部（wine只能解压）
