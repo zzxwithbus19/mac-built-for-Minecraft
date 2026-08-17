@@ -1,6 +1,13 @@
 # unix wine ver for zhanbalao/mc26-one ！（use AI）
 # Minecraft 26.2 ".exe"（原版） 基于zhanbalao/mc26-one的开源项目
-
+## 法律声明
+这2次分发了Minecraft JAVA 
+重申Minecraft文件来源：https://github.com/zhanbalao/mc26-one
+你会违反mojang的用户条例
+并可能下载到病毒软件
+这里没有xhs-256比对
+Ai生成具有不确定性，我们无法保证Ai提供代码不会泄露个人信息
+提交issue可直接在本页面提交
 将 Minecraft 26.2 打包成一个 exe（Windows应用程序） 和python （.py）文件——内置 Java 25 
 Minecraft资源文件位于.exe程序内部（wine只能解压）
 运行.py时下载启动程序，可以扔到任何x64wine上直接运行。（或者windows 64）
@@ -59,4 +66,5 @@ Minecraft资源文件位于.exe程序内部（wine只能解压）
 ## 常见问题
 运用AI生成和修改
 ## 法律声明
-自己看https://github.com/zhanbalao/mc26-one
+这2次分发了Minecraft JAVA 重申Minecraft文件来源：https://github.com/zhanbalao/mc26-one
+相关文件声明https://github.com/zhanbalao/mc26-one
