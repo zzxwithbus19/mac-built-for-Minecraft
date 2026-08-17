@@ -1,11 +1,11 @@
 # unix wine ver for zhanbalao/mc26-one ！（use AI）
 # Minecraft 26.2 ".exe"（原版） 基于zhanbalao/mc26-one的开源项目
-## 法律声明
+# 法律声明
  # 这2次分发了Minecraft JAVA 
- # 重申Minecraft文件来源：https://github.com/zhanbalao/mc26-one
+  重申Minecraft文件来源：https://github.com/zhanbalao/mc26-one
  # 违反mojang的用户条例
  # 可能下载到病毒软件
- # 没有xhs-256比对
+  没有xhs-256比对
  # 具有不确定性，我们无法保证不会泄露个人信息
 ## 使用方式
 提交issue可直接在本页面提交
