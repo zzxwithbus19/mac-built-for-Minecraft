@@ -1,12 +1,10 @@
 # Minecraft 26.2 基于zhanbalao/mc26-one的开源项目
   unix wine ver for zhanbalao/mc26-one ！（use AI）
 # 法律声明
- # 这2次分发了Minecraft JAVA 
+ # 这2次分发了Minecraft JAVA # 违反mojang的用户条例
   重申Minecraft文件来源：https://github.com/zhanbalao/mc26-one
- # 违反mojang的用户条例
+ ## 默认路径在 c:\
  # 可能下载到病毒软件
-  没有xhs-256比对
- # 具有不确定性，我们无法保证不会泄露个人信息
 ## 使用方式
 提交issue可直接在本页面提交
 将 Minecraft 26.2 打包成一个 exe（Windows应用程序） 和python （.py）文件——内置 Java 25 
